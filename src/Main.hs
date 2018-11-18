@@ -1,5 +1,6 @@
+-- reference: https://hackage.haskell.org/package/apecs-0.2.0.2/src/example/RTS.hs
+
 -- a toy brogue console
---
 
 -- apecs requires these:
 {-# LANGUAGE DataKinds             #-}
